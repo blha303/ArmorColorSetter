@@ -1,0 +1,8 @@
+name: ArmorColorSetter
+main: me.blha303.ArmorColorSetter
+version: 1
+author: blha303
+commands:
+    color:
+        description: Lets you set armor color
+        usage: /color <red> <green> <blue>
